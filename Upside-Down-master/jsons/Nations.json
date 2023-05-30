@@ -21,6 +21,7 @@
 		"uniqueName": "Ahmos can always win",
 		"uniqueText": "It has some advantages but not that much advantages!",
 		"uniques": [
+			
 			"Receive [10] free [Great Scientist] when you discover [Writing]",
 			"Receive [1] free [Great Engineer] when you discover [The Wheel]",
 			"[Great Scientist] is earned [100]% faster",
@@ -88,6 +89,8 @@
 			"Starts with [Archery]",
 			"Starts with [Guilds]",
 			"Starts with [Satellites]",
+			"[3] free [Chariot Archer] units appear",
+			"Starts with [Honor] adopted",
 
 			"Retain [50]% of the happiness from a luxury after the last copy has been traded away",
 			"Gain [120] Influence with a [Great Person] gift to a City-State",

@@ -8,7 +8,7 @@
 		"cost": 40,
 		"hurryCostModifier": 40,
 		"maintenance": 1,
-		"uniques": ["Destroyed when the city is captured"]
+		"uniques": ["[+1 Culture] per [3] population [in this city]"]
 	},
 	{
 		"name": "Tomb",
@@ -22,43 +22,24 @@
 		"uniques": ["Hidden when religion is disabled"]
 	},
 	{
-    	"name": "Yrarbil",
-		"replaces": "Library",
-		"uniqueTo": "Egypto",
-		"hurryCostModifier": 25,
-		"gold": 2,
-		"uniques": ["[+1 Science] per [2] population [in this city]"],
-		"requiredTech": "Writing"
-	},
-	{
-		"name": "Retaw Llim",
+		"name": "Shadoof",
 		"replaces": "Water Mill",
 		"uniqueTo": "Egypto",
-		"cost": 75,
-		"food": 2,
+		"cost": 40,
+		"food": 3,
 		"production": 1,
 		"uniques": ["[+2 Food] from [Lakes] tiles [in this city]",
 			"Must be next to [Fresh water]"],
 		"hurryCostModifier": 25,
 		"maintenance": 1,
 		"percentStatBonus": {"food": 15},
-		"requiredTech": "The Wheel"  
+		"requiredTech": "The Wheel"
 	},
     {
-		"name": "Sllaw",
-		"replaces": "Walls",
-		"cost": 65,
-		"uniqueTo": "Egypto",
-		"cityStrength": 6,
-		"cityHealth": 100,
-		"hurryCostModifier": 25,
-		"requiredTech": "Masonry",
-		"uniques": ["Destroyed when the city is captured"]
-	},
-    {
-		"name": "Skcarrab",
+		"name": "School of arms",
 	   	"replaces": "Barracks",
 		"uniqueTo": "Egypto",
+		"science": 1,
 		"hurryCostModifier": 25,
 		"maintenance": 1,
 		"uniques": ["[-25]% Culture cost of natural border growth [in this city]",
@@ -82,7 +63,7 @@
 			"Destroyed when the city is captured"]
    	},
     {
-		"name": "Tekram",
+		"name": "Souq",
 		"replaces": "Market",
 		"uniqueTo": "Egypto",
 		"gold": 2,
@@ -95,7 +76,7 @@
 		"requiredTech": "Currency"
     },
     {
-		"name": "Pohskrow",
+		"name": "Blacksmith",
 		"replaces": "Workshop",
 		"uniqueTo": "Egypto",
 		"cost": 100,
@@ -108,7 +89,7 @@
 		"requiredTech": "Metal Casting"
     },
     {
-		"name": "Ytisrevinu",
+		"name": "Institute",
 		"replaces": "University",
 		"uniqueTo": "Egypto",
 		"maintenance": 2,
@@ -120,21 +101,8 @@
 		"uniques": ["[+2 Science] from [Jungle] tiles [in this city]"],
 		"requiredTech": "Education"
     },
-   	{
-		"name": "Eltsac",
-		"replaces": "Castle",
-		"uniqueTo": "Egypto",
-		"cityStrength": 7,
-		"cityHealth": 25,
-		"culture": 2,
-		"hurryCostModifier": 25,
-		"requiredBuilding": "Walls",
-		"uniques": ["[+1 Gold] [in this city] <after discovering [Flight]>",
-			"Destroyed when the city is captured"],
-		"requiredTech": "Chivalry"
-    },
 	{
-		"name": "Arepo Esuoh",
+		"name": "Opera",
 		"replaces": "Opera House",
 		"uniqueTo": "Egypto",
 		"culture": 4,
@@ -146,20 +114,8 @@
 		"requiredTech": "Acoustics",
 		"uniques": ["Destroyed when the city is captured"]
 	},
-    {
-		"name": "Knab",
-		"replaces": "Bank",
-		"uniqueTo": "Egypto",	
-		"gold": 2,
-		"specialistSlots": {"Merchant": 1},
-		"happiness": 2,
-		"hurryCostModifier": 15,
-		"percentStatBonus": {"gold": 25},
-		"requiredBuilding": "Market",
-		"requiredTech": "Banking"
-    },
 	{
-		"name": "Llimdniw",
+		"name": "Solar station",
 		"replaces": "Windmill",
 		"uniqueTo": "Egypto",
 		"production": 2,
