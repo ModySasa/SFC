@@ -23,7 +23,8 @@
 		"uniques": [
 			
 			"Receive [10] free [Great Scientist] when you discover [Writing]",
-			"Receive [1] free [Great Engineer] when you discover [The Wheel]",
+			"Receive [10] free [Chariot Archer] when you discover [Horseback Riding]",
+			"Receive [1] free [Great Engineer] when you discover [Construction]",
 			"[Great Scientist] is earned [100]% faster",
 			"[Great Engineer] is earned [100]% faster",
 			"[Great General] is earned [10]% faster",
@@ -89,8 +90,13 @@
 			"Starts with [Archery]",
 			"Starts with [Guilds]",
 			"Starts with [Satellites]",
-			"[3] free [Chariot Archer] units appear",
+			
 			"Starts with [Honor] adopted",
+			"Starts with [Warrior Code] adopted",
+			"Starts with [Discipline] adopted",
+			"Starts with [Military Tradition] adopted",
+			"Starts with [Military Castle] adopted",
+			"Starts with [Profissional Army] adopted",
 
 			"Retain [50]% of the happiness from a luxury after the last copy has been traded away",
 			"Gain [120] Influence with a [Great Person] gift to a City-State",
