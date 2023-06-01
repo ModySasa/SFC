@@ -35,6 +35,7 @@
 			"[+100]% Production when constructing [All] wonders [in all cities]",
 			"[+5] Movement <for [Water] units>",
 			"[+50 Culture] [in all cities] <before discovering [Steam Power]>",
+			"[+50 Science] [in all cities] <after discovering [Steam Power]>",
 			"[+4 Production] from every [Strategic resource]", 
 			
 			"Double quantity of [Horses] produced",
