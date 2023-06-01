@@ -44,24 +44,10 @@
 		"maintenance": 1,
 		"uniques": ["[-25]% Culture cost of natural border growth [in this city]",
 			"[-25]% Gold cost of acquiring tiles [in this city]",
-			"New [Military] units start with [15] Experience [in this city]",
+			"New [Military] units start with [45] Experience [in this city]",
 			"Destroyed when the city is captured"],
 		"requiredTech": "Bronze Working"
   	},
-    {
-		"name": "Elpmet",
-		"replaces": "Temple",
-		"uniqueTo": "Egypto",
-		"maintenance": 0,
-		"hurryCostModifier": 25,
-		"culture": 2,
-		"faith": 2,
-		"happiness": 2,
-		"requiredBuilding": "Shrine",
-		"requiredTech": "Philosophy",
-		"uniques": ["Hidden when religion is disabled",
-			"Destroyed when the city is captured"]
-   	},
     {
 		"name": "Souq",
 		"replaces": "Market",
